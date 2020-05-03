@@ -17,6 +17,7 @@ public class Hello {
         result.add("qwe");
         result.add("www");
         System.out.println(6678);
+        //ww
         return result;
     }
 }
