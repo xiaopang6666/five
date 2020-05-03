@@ -16,7 +16,7 @@ public class Hello {
         ArrayList<String> result = new ArrayList<>();
         result.add("qwe");
         result.add("www");
-        System.out.println(667);
+        System.out.println(6678);
         return result;
     }
 }
